@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rajkumarsaloon.in/sitemap.xml
+
+# Block nothing — this is a public business website
